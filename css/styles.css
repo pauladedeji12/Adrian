@@ -1,0 +1,170 @@
+a{
+    text-decoration: none;
+    color: rgb(182, 63, 27);
+    margin-top: 0;
+}
+a:hover{
+    color: blue;
+}
+br{
+display: none;
+    border: dotted;
+}
+body{
+    background-color:#000000;
+    margin: 0;
+}
+
+h1{
+    color: rgb(138, 100, 100);
+}
+h3{
+    color: rgb(138, 100, 100);
+    font-size: 0.8cm;
+}
+h5{
+    margin-top: 0;
+    margin-bottom: 0;
+    margin-block-start: 0;
+    margin-block-end: 0;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+img{
+    background-color: #000000;
+}
+input{
+    background-color: #7bb38c;
+}
+label{
+    display: block;
+    font-family: 'Times New Roman', Times, serif;
+}
+p{
+    color: rgb(189, 173, 173);
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+textarea {
+    color: #0a0a0a;
+    background-color: #7bb38c;
+}
+/************ CLASS SELECTORS *********/
+.bottomcloud{
+    position: absolute;
+    top: 50px;
+    left: 300px;
+}
+.contacthead{
+    font-family: sans-serif;
+    text-align: center;
+    size: 1.2cm;
+}
+.first-box{
+    background-color:#7bb38c;
+   
+    
+}
+.footer{
+    color: aliceblue;
+}
+
+.foot{
+    display: inline-block;
+    padding-right: 20px;
+
+}
+.header{
+    position: relative;
+}
+.intro{
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+
+}
+.last-box{
+    background-color: #7bb38c;
+    text-align: center;
+    padding-bottom: 5px;
+   
+}
+.magclass{
+    position: absolute;
+    right: 68px;
+    top: 50px;
+    background-color: #e9cfc9;
+    border-radius: 50px;
+ 
+}
+.search{
+    background-color: bisque;
+    font-size: large;
+    position: absolute;
+    right: 100px;
+    top: 50px;
+    border-radius: 30px;
+}
+.second-box{
+    background-color:rgb(84, 133, 104);
+    position: relative;
+    margin-top:0;
+    padding-top: 5px;
+    text-align: center;
+ 
+}
+.set{
+    color: #000000;
+    padding-left: 209px;
+    text-align: center;
+    size: 1.2cm;
+
+}
+.sharigan{
+    border-radius: 50px;
+}
+.sparkle{
+    padding: 20px 30px;
+}
+.sparkles1{
+    position: absolute;
+    left: 300px;
+    top:200px;
+}
+.sparkles2{
+    position: absolute;
+    left: 360px;
+    top:100px;
+}
+.sparkles3{
+    position: absolute;
+    left: 450px;
+    top:200px;
+}
+.sparkles4{
+    position: absolute;
+    left: 350px;
+    bottom: 15px;
+}
+.sparkles5{
+    position: absolute;
+    left: 400px;
+    bottom: 20px;
+}
+strong{
+    font-size: large;
+    color:#bdd3d9;
+}
+.submit{
+    background-color: #7bb38c;
+}
+.submit:hover{
+    background-color: aqua;
+    font-size: medium;
+}
+.third-box{
+    text-align: center;
+}
+.topcloud{
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
